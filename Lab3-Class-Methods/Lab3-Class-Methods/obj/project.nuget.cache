@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r8jMNlHMSFOyp0sHTLfGU/0ZkErhm1Vv1kW1XTwBfSkO3j2huErrhXgqafkN64IB90YuMsUZbEib8RhncV8BPg==",
+  "success": true,
+  "projectFilePath": "/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods.csproj",
+  "expectedPackageFiles": [
+    "/Users/rufat/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

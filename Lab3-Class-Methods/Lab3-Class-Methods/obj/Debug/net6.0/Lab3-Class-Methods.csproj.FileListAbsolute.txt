@@ -1,0 +1,15 @@
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/bin/Debug/net6.0/Lab3-Class-Methods
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/bin/Debug/net6.0/Lab3-Class-Methods.deps.json
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/bin/Debug/net6.0/Lab3-Class-Methods.runtimeconfig.json
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/bin/Debug/net6.0/Lab3-Class-Methods.dll
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/bin/Debug/net6.0/Lab3-Class-Methods.pdb
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/obj/Debug/net6.0/Lab3-Class-Methods.csproj.AssemblyReference.cache
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/obj/Debug/net6.0/Lab3-Class-Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/obj/Debug/net6.0/Lab3-Class-Methods.AssemblyInfoInputs.cache
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/obj/Debug/net6.0/Lab3-Class-Methods.AssemblyInfo.cs
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/obj/Debug/net6.0/Lab3-Class-Methods.csproj.CoreCompileInputs.cache
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/obj/Debug/net6.0/Lab3-Class-Methods.dll
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/obj/Debug/net6.0/refint/Lab3-Class-Methods.dll
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/obj/Debug/net6.0/Lab3-Class-Methods.pdb
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/obj/Debug/net6.0/Lab3-Class-Methods.genruntimeconfig.cache
+/Volumes/Mac/PB-402/Lab3-Class-Methods/Lab3-Class-Methods/Lab3-Class-Methods/obj/Debug/net6.0/ref/Lab3-Class-Methods.dll
